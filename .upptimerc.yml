@@ -7,12 +7,16 @@ sites:
     url: https://ragnarok22.dev
   - name: Personal Blog
     url: https://blog.ragnarok22.dev
+  - name: Projects
+    url: https://projects.ragnarok22.dev
+  - name: Personal Web Demo
+    url: https://about-ragnarok22.vercel.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: upptime.ragnarok22.dev
-  # baseUrl: /uptime
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
