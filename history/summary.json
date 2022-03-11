@@ -22,9 +22,9 @@
     "url": "https://blog.ragnarok22.dev",
     "icon": "https://favicons.githubusercontent.com/blog.ragnarok22.dev",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 693,
     "timeMonth": 751,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "Projects",
