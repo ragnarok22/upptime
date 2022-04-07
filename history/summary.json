@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/ragnarok22.dev",
     "slug": "personal-web",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.82%",
-    "time": 337,
-    "timeDay": 331,
-    "timeWeek": 309,
-    "timeMonth": 324,
-    "timeYear": 337,
+    "uptimeYear": "99.83%",
+    "time": 338,
+    "timeDay": 404,
+    "timeWeek": 306,
+    "timeMonth": 323,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2022-04-01": 98
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 747,
-    "timeDay": 764,
-    "timeWeek": 651,
+    "time": 743,
+    "timeDay": 546,
+    "timeWeek": 644,
     "timeMonth": 725,
-    "timeYear": 747,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2022-03-25": 24,
       "2022-03-11": 26
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 188,
-    "timeWeek": 189,
-    "timeMonth": 140,
-    "timeYear": 146,
+    "time": 144,
+    "timeDay": 65,
+    "timeWeek": 173,
+    "timeMonth": 141,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 102,
-    "timeWeek": 87,
-    "timeMonth": 82,
-    "timeYear": 94,
+    "time": 93,
+    "timeDay": 46,
+    "timeWeek": 89,
+    "timeMonth": 83,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   }
 ]
