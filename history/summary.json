@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 574,
-    "timeDay": 1196,
-    "timeWeek": 428,
+    "time": 570,
+    "timeDay": 174,
+    "timeWeek": 416,
     "timeMonth": 380,
-    "timeYear": 574,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2022-04-01": 98
     }
@@ -26,17 +26,16 @@
     "slug": "personal-blog",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1081,
-    "timeDay": 9205,
-    "timeWeek": 4024,
+    "time": 1080,
+    "timeDay": 9330,
+    "timeWeek": 4025,
     "timeMonth": 1639,
-    "timeYear": 1081,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2022-05-14": 11,
       "2022-03-25": 24,
       "2022-03-11": 26
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 47,
-    "timeWeek": 136,
-    "timeMonth": 130,
+    "timeDay": 174,
+    "timeWeek": 144,
+    "timeMonth": 132,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -70,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 33,
+    "time": 132,
+    "timeDay": 27,
     "timeWeek": 94,
     "timeMonth": 147,
-    "timeYear": 133,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   }
 ]
