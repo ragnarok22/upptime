@@ -52,19 +52,19 @@
     "url": "https://projects.ragnarok22.dev",
     "icon": "https://favicons.githubusercontent.com/projects.ragnarok22.dev",
     "slug": "projects",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 75,
-    "timeWeek": 174,
-    "timeMonth": 188,
+    "timeDay": 116,
+    "timeWeek": 172,
+    "timeMonth": 187,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-08-15": 0
+      "2022-08-15": 22
     }
   },
   {
@@ -72,19 +72,19 @@
     "url": "https://about-ragnarok22.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/about-ragnarok22.vercel.app",
     "slug": "personal-web-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 1401,
-    "timeWeek": 517,
-    "timeMonth": 282,
+    "timeDay": 981,
+    "timeWeek": 475,
+    "timeMonth": 277,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-08-15": 0
+      "2022-08-15": 22
     }
   }
 ]
