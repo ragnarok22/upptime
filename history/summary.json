@@ -13,7 +13,7 @@
     "time": 243,
     "timeDay": 76,
     "timeWeek": 119,
-    "timeMonth": 115,
+    "timeMonth": 113,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2023-02-11": 58,
@@ -25,9 +25,9 @@
     "url": "https://blog.ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ragnarok22.dev.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
@@ -37,6 +37,7 @@
     "timeMonth": 3434,
     "timeYear": 1672,
     "dailyMinutesDown": {
+      "2023-06-23": 0,
       "2023-06-19": 17,
       "2023-06-01": 22,
       "2023-05-05": 21,
