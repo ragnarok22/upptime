@@ -69,18 +69,20 @@
     "url": "https://projects.ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/projects.ragnarok22.dev.ico",
     "slug": "projects",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 286,
+    "timeDay": 112,
+    "timeWeek": 106,
+    "timeMonth": 281,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "Personal Web Demo",
