@@ -4,19 +4,19 @@
     "url": "https://ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "personal-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 87,
-    "timeWeek": 94,
+    "time": 120,
+    "timeDay": 82,
+    "timeWeek": 92,
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 8
     }
   },
   {
@@ -74,7 +74,7 @@
     "uptime": "96.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.69%",
+    "uptimeMonth": "10.68%",
     "uptimeYear": "92.56%",
     "time": 149,
     "timeDay": 150,
@@ -82,7 +82,7 @@
     "timeMonth": 125,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-06-16": 1058,
+      "2024-06-16": 1066,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
@@ -117,19 +117,19 @@
     "url": "https://about-ragnarok22.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/about-ragnarok22.vercel.app.ico",
     "slug": "personal-web-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 138,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 106,
+    "timeDay": 87,
+    "timeWeek": 83,
+    "timeMonth": 87,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 8
     }
   }
 ]
