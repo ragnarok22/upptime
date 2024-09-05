@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 102,
-    "timeWeek": 136,
+    "timeDay": 170,
+    "timeWeek": 135,
     "timeMonth": 143,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
     "time": 2306,
-    "timeDay": 596,
-    "timeWeek": 637,
-    "timeMonth": 699,
+    "timeDay": 629,
+    "timeWeek": 650,
+    "timeMonth": 696,
     "timeYear": 1927,
     "dailyMinutesDown": {
       "2024-08-27": 21,
@@ -53,8 +53,7 @@
       "2023-10-19": 18,
       "2023-10-17": 19,
       "2023-09-23": 28,
-      "2023-09-12": 25,
-      "2023-09-06": 45
+      "2023-09-12": 25
     }
   },
   {
@@ -63,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.ragnarok22.dev.ico",
     "slug": "projects",
     "status": "down",
-    "uptime": "88.43%",
+    "uptime": "88.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.84%",
+    "uptimeYear": "70.56%",
     "time": 149,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 160,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-09-04": 9,
+      "2024-09-05": 9,
+      "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -195,10 +195,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 82,
-    "timeWeek": 105,
-    "timeMonth": 102,
+    "time": 107,
+    "timeDay": 69,
+    "timeWeek": 107,
+    "timeMonth": 101,
     "timeYear": 109,
     "dailyMinutesDown": {}
   }
