@@ -7,8 +7,6 @@ sites:
     url: https://ragnarok22.dev
   - name: Personal Blog
     url: https://blog.ragnarok22.dev
-  - name: Projects
-    url: https://projects.ragnarok22.dev
   - name: Personal Web Demo
     url: https://about-ragnarok22.vercel.app/
 
