@@ -24,12 +24,12 @@
     "slug": "personal-blog",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
     "time": 1398,
-    "timeDay": 875,
+    "timeDay": 1067,
     "timeWeek": 889,
     "timeMonth": 849,
     "timeYear": 1146,
@@ -62,17 +62,19 @@
     "url": "https://about-ragnarok22.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/about-ragnarok22.vercel.app.ico",
     "slug": "personal-web-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 275,
-    "timeWeek": 1265,
-    "timeMonth": 374,
+    "timeDay": 241,
+    "timeWeek": 1133,
+    "timeMonth": 369,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-13": 0
+    }
   }
 ]
