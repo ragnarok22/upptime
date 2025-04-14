@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 134,
-    "timeWeek": 133,
-    "timeMonth": 141,
+    "timeDay": 142,
+    "timeWeek": 139,
+    "timeMonth": 142,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
-    "time": 1398,
-    "timeDay": 1067,
-    "timeWeek": 889,
-    "timeMonth": 849,
+    "time": 1397,
+    "timeDay": 678,
+    "timeWeek": 857,
+    "timeMonth": 850,
     "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-04-12": 31,
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/about-ragnarok22.vercel.app.ico",
     "slug": "personal-web-demo",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "72.31%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.92%",
     "time": 137,
-    "timeDay": 241,
-    "timeWeek": 1133,
-    "timeMonth": 369,
-    "timeYear": 146,
+    "timeDay": 271,
+    "timeWeek": 1150,
+    "timeMonth": 376,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-04-13": 0
+      "2025-04-14": 12,
+      "2025-04-13": 387
     }
   }
 ]
