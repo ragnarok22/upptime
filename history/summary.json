@@ -4,19 +4,19 @@
     "url": "https://ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "personal-web",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 142,
-    "timeWeek": 139,
-    "timeMonth": 142,
+    "timeDay": 168,
+    "timeWeek": 146,
+    "timeMonth": 143,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-04-14": 0
+      "2025-04-14": 12
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "personal-web-demo",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "1.63%",
-    "uptimeWeek": "85.95%",
-    "uptimeMonth": "96.77%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "85.83%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "99.73%",
     "time": 137,
     "timeDay": 271,
@@ -76,7 +76,7 @@
     "timeMonth": 376,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-04-14": 1030,
+      "2025-04-14": 1042,
       "2025-04-13": 387
     }
   }
