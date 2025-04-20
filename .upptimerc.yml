@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Personal Web
+    url: https://reinierhernandez.com
+  - name: Old Personal Web
     url: https://ragnarok22.dev
   - name: Personal Blog
     url: https://blog.ragnarok22.dev
-  - name: Personal Web Demo
-    url: https://about-ragnarok22.vercel.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
