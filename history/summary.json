@@ -40,7 +40,7 @@
     "url": "https://blog.ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ragnarok22.dev.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.81%",
@@ -52,6 +52,7 @@
     "timeMonth": 1868,
     "timeYear": 1228,
     "dailyMinutesDown": {
+      "2025-05-23": 0,
       "2025-05-22": 19,
       "2025-05-15": 24,
       "2025-04-12": 31,
