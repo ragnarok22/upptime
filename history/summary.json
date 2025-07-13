@@ -4,7 +4,7 @@
     "url": "https://reinierhernandez.com",
     "icon": "https://icons.duckduckgo.com/ip3/reinierhernandez.com.ico",
     "slug": "personal-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 131,
     "timeMonth": 127,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-13": 0
+    }
   },
   {
     "name": "Old Personal Web",
@@ -24,7 +26,7 @@
     "slug": "old-personal-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 163,
     "timeMonth": 146,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-13": 0
+    }
   },
   {
     "name": "Personal Blog",
