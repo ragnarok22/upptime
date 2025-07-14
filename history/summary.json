@@ -6,18 +6,16 @@
     "slug": "personal-web",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 103,
-    "timeWeek": 128,
-    "timeMonth": 127,
+    "timeDay": 148,
+    "timeWeek": 136,
+    "timeMonth": 130,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-07-13": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Old Personal Web",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "old-personal-web",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 121,
-    "timeWeek": 156,
+    "timeDay": 123,
+    "timeWeek": 160,
     "timeMonth": 144,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2025-07-13": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personal Blog",
@@ -50,10 +46,10 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.78%",
-    "time": 1202,
-    "timeDay": 723,
-    "timeWeek": 809,
-    "timeMonth": 1069,
+    "time": 1200,
+    "timeDay": 662,
+    "timeWeek": 799,
+    "timeMonth": 1054,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2025-07-10": 49,
