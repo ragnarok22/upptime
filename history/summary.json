@@ -13,27 +13,31 @@
     "time": 135,
     "timeDay": 125,
     "timeWeek": 131,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "Old Personal Web",
     "url": "https://ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "old-personal-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 215,
     "timeWeek": 145,
-    "timeMonth": 161,
+    "timeMonth": 163,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "Personal Blog",
