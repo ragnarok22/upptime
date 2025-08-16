@@ -22,19 +22,19 @@
     "url": "https://ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "old-personal-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 153,
-    "timeDay": 176,
-    "timeWeek": 162,
+    "timeDay": 154,
+    "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 14
     }
   },
   {
