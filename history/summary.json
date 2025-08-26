@@ -4,19 +4,19 @@
     "url": "https://reinierhernandez.com",
     "icon": "https://icons.duckduckgo.com/ip3/reinierhernandez.com.ico",
     "slug": "personal-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 142,
-    "timeWeek": 151,
-    "timeMonth": 149,
+    "timeDay": 157,
+    "timeWeek": 156,
+    "timeMonth": 151,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "old-personal-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 113,
-    "timeWeek": 151,
-    "timeMonth": 147,
+    "timeDay": 126,
+    "timeWeek": 152,
+    "timeMonth": 148,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 7
     }
   },
   {
