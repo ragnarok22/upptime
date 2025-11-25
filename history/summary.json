@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 162,
-    "timeDay": 714,
-    "timeWeek": 696,
-    "timeMonth": 437,
-    "timeYear": 169,
+    "timeDay": 197,
+    "timeWeek": 631,
+    "timeMonth": 448,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2025-10-31": 17,
       "2025-10-20": 16,
@@ -31,17 +31,16 @@
     "slug": "old-personal-web",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 157,
-    "timeDay": 157,
-    "timeWeek": 186,
-    "timeMonth": 174,
+    "timeDay": 158,
+    "timeWeek": 170,
+    "timeMonth": 177,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-11-23": 8,
       "2025-10-31": 17,
       "2025-10-20": 16,
       "2025-08-31": 51,
@@ -62,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1212,
-    "timeDay": 793,
-    "timeWeek": 971,
-    "timeMonth": 970,
-    "timeYear": 1298,
+    "timeDay": 1251,
+    "timeWeek": 1024,
+    "timeMonth": 986,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-10-06": 35,
       "2025-09-01": 568,
@@ -89,8 +88,7 @@
       "2024-12-20": 83,
       "2024-12-13": 20,
       "2024-11-29": 72,
-      "2024-11-27": 27,
-      "2024-11-25": 23
+      "2024-11-27": 27
     }
   }
 ]
