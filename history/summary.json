@@ -61,18 +61,20 @@
     "url": "https://suriapp.sr",
     "icon": "https://icons.duckduckgo.com/ip3/suriapp.sr.ico",
     "slug": "suri-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 7134,
     "timeDay": 7134,
     "timeWeek": 7134,
     "timeMonth": 7134,
     "timeYear": 7134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-24": 0
+    }
   },
   {
     "name": "NVIM Store",
