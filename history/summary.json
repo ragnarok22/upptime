@@ -61,19 +61,19 @@
     "url": "https://suriapp.sr",
     "icon": "https://icons.duckduckgo.com/ip3/suriapp.sr.ico",
     "slug": "suri-app",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 7134,
-    "timeDay": 7134,
-    "timeWeek": 7134,
-    "timeMonth": 7134,
-    "timeYear": 7134,
+    "status": "up",
+    "uptime": "91.30%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "91.30%",
+    "uptimeYear": "91.30%",
+    "time": 4156,
+    "timeDay": 4156,
+    "timeWeek": 4156,
+    "timeMonth": 4156,
+    "timeYear": 4156,
     "dailyMinutesDown": {
-      "2026-02-24": 0
+      "2026-02-24": 24
     }
   },
   {
