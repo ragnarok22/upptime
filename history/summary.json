@@ -125,18 +125,20 @@
     "url": "https://whatsapp.ragnarok22.dev",
     "icon": "https://icons.duckduckgo.com/ip3/whatsapp.ragnarok22.dev.ico",
     "slug": "whatsapp-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 193,
-    "timeWeek": 246,
-    "timeMonth": 279,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "time": 244,
+    "timeDay": 161,
+    "timeWeek": 231,
+    "timeMonth": 274,
+    "timeYear": 244,
+    "dailyMinutesDown": {
+      "2026-07-20": 0
+    }
   },
   {
     "name": "Suri Rate",
@@ -198,7 +200,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ragnarok22.dev.ico",
     "slug": "old-personal-web",
     "status": "up",
-    "uptime": "93.14%",
+    "uptime": "93.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
